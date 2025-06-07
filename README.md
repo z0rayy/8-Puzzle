@@ -45,3 +45,7 @@ Memberi pesan Unsolvable puzzle jika puzzle tidak dapat diselesaikan.
 Terpisah menjadi kelas Board dan Solver untuk kemudahan pengembangan.
 
 ---
+
+## Kontribusi
+Kontribusi sangat diterima! Jika Anda ingin menambah fitur atau memperbaiki bug, silakan buat pull request atau laporkan issue di repository ini.
+

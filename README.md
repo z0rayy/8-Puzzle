@@ -1,15 +1,16 @@
 # 🧩 8‑Puzzle Solver (z0rayy)
 
-:contentReference[oaicite:1]{index=1} **algoritma A\*** :contentReference[oaicite:2]{index=2}
+Solusi untuk 8‑Puzzle problem (atau Sliding Tile Puzzle) dengan menggunakan algoritma A‑star (A*), termasuk deteksi papan unsolvable.
 
 ---
 
 ## 📘 Deskripsi
 
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}.
+• Puzzle 3×3 berisi 8 ubin bernomor dan 1 kotak kosong.
+
+• Tujuan: mencapai konfigurasi tujuan (1–8 berurutan dengan kosong di pojok kanan bawah) dari konfigurasi awal, menggunakan gerakan legal (atas, bawah, kiri, kanan).
+
+• Solusi optimal dicapai via algoritma A*, meminimalkan jumlah gerakan.
 
 ---
 

@@ -1,4 +1,4 @@
-# 🧩 8‑Puzzle Solver (z0rayy)
+# 🧩 8‑Puzzle Solver
 
 Solusi untuk 8‑Puzzle problem (atau Sliding Tile Puzzle) dengan menggunakan algoritma A‑star (A*), termasuk deteksi papan unsolvable.
 

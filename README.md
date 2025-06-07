@@ -46,6 +46,6 @@ Terpisah menjadi kelas Board dan Solver untuk kemudahan pengembangan.
 
 ---
 
-## Kontribusi
+## 🙌 Kontribusi
 Kontribusi sangat diterima! Jika Anda ingin menambah fitur atau memperbaiki bug, silakan buat pull request atau laporkan issue di repository ini.
 

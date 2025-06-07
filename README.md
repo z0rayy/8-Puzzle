@@ -13,6 +13,19 @@
 
 ---
 
+## 🧠 Algoritma A*
+
+1. Buat dua SearchNode untuk initial & twin.
+2. Masukkan kedua ke priority queue berdasarkan moves + manhattan().
+3. Loop:
+   - Dequeue node berkost terendah.
+   - Jika goal → solusi; hentikan.
+   - Generate neighbors (exclude parent).
+   - Masukkan neighbor baru ke queue.
+4. Jika twin mencapai goal dulu → tidak solvable
+
+---
+
 ## 🚀 Fitur
 
 - :contentReference[oaicite:8]{index=8}

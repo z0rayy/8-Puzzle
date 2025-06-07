@@ -29,26 +29,19 @@ Solusi untuk 8‑Puzzle problem (atau Sliding Tile Puzzle) dengan menggunakan al
 
 ## 🚀 Fitur
 
-- :contentReference[oaicite:8]{index=8}
-- Fungsi hitung:
-  - **dimension()**
-  - **hamming()**
-  - **manhattan()**
-  - **isGoal()**
-- Mendukung:
-  - :contentReference[oaicite:9]{index=9}
-  - :contentReference[oaicite:10]{index=10}
-  - :contentReference[oaicite:11]{index=11}
-- **Solver**:
-  - :contentReference[oaicite:12]{index=12}
-  - :contentReference[oaicite:13]{index=13}
-  - :contentReference[oaicite:14]{index=14}
+• Solusi Optimal dengan A*
+Menemukan langkah minimal menggunakan algoritma A* dengan heuristik Hamming dan Manhattan.
+
+• Cek Solvabilitas
+Mendeteksi apakah puzzle bisa diselesaikan sebelum proses pencarian.
+
+• Urutan Langkah Solusi
+Menampilkan setiap langkah dari awal hingga kondisi akhir secara jelas.
+
+• Deteksi Puzzle Tidak Terpecahkan
+Memberi pesan Unsolvable puzzle jika puzzle tidak dapat diselesaikan.
+
+• Struktur Kode Modular
+Terpisah menjadi kelas Board dan Solver untuk kemudahan pengembangan.
 
 ---
-
-## ⚙️ Instalasi & Build
-
-1. Clone repo:
-   ```bash
-   git clone https://github.com/z0rayy/8-Puzzle.git
-   cd 8-Puzzle
